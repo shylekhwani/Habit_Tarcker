@@ -1,6 +1,6 @@
-import { HabitList } from "../HabitList/HabitList";
-import { HabitProgress } from "../HabitProgress/HabitProgress";
-import { NewHabit } from "../NewHabit/newhabit";
+import { HabitList } from "../habitList/HabitList";
+import { HabitProgress } from "../habitProgress/HabitProgress";
+import { NewHabit } from "../newHabit/NewHabit";
 
 export const Main = function () {
 
@@ -9,7 +9,7 @@ export const Main = function () {
       <p className="text-gray-600 dark:text-gray-900">Sun 1 March 2022</p>
       <span className="text-lg font-bold text-slate-600 dark:text-slate-900">
         Hello, <span className="text-orange-500">Susy</span>
-      </span>
+        </span>
 
 
       <div className="w-full max-w-lg mt-6">

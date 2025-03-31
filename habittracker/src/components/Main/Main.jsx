@@ -1,6 +1,6 @@
 import { HabitList } from "../HabitList/HabitList";
 import { HabitProgress } from "../HabitProgress/HabitProgress";
-import { NewHabit } from "../NewHabit/NewHabit";
+import { NewHabit } from "../NewHabit/newhabit";
 
 export const Main = function () {
 

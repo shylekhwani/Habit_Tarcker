@@ -1,5 +1,5 @@
 import { useHabitContext } from "../../hooks/useHabitContext";
-import { ProgressBar } from "./ProgressBar";
+import { ProgressBar } from "./progressBar";
 
 export const HabitProgress = function() {
     const { habits, completedCount } = useHabitContext();

@@ -1,5 +1,5 @@
-import { Period } from "./Period";
-import { HabitType } from "./HabitType";
+import { Period } from "./period";
+import { HabitType } from "./habitType";
 import { useHabitContext } from "../../hooks/useHabitContext";
 import { useNavigate } from "react-router-dom";
 import { useEffect } from "react";
